@@ -1,2 +1,2 @@
 # Smoke_detection
-Data_Science_project
+Predicting the presence of smoke based on data from various iot sensors using various ML algorithms and computing and comparing accuracies on test and train data using various metrics. The  ML algorithms used are naive bayes,Gaussian Mixture Model,Decesion Tree,Random Forest Classifer, XG boost Classifier .Also performiing EDA and preprocessing including dimensionality reduction.
